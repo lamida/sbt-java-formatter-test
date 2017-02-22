@@ -1,2 +1,2 @@
-//addSbtPlugin("com.lightbend.sbt" % "sbt-java-formatter" % "0.2.0")
+addSbtPlugin("com.lightbend.sbt" % "sbt-java-formatter" % "0.2.0")
 

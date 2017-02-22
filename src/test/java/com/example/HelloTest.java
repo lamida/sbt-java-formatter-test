@@ -6,9 +6,9 @@ import org.junit.Test;
 
 public class HelloTest {
 
-    @Test
-    public void testMessage() {
-        assertTrue(true);
-    }
+  @Test
+  public void testMessage() {
+    assertTrue(true);
+  }
 
 }
