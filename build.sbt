@@ -10,3 +10,6 @@ libraryDependencies ++= Seq(
   "junit"             % "junit"           % "4.12"  % "test",
   "com.novocode"      % "junit-interface" % "0.11"  % "test"
 )
+
+libraryDependencies += "com.google.guava" % "guava" % "12.0"
+
